@@ -1,0 +1,8 @@
+text = input("Input text: ")
+textToReplace = input("What word you want to replace: ")
+wordToInclude = input("New word: ")
+# newText= str(text.split()[:-1])
+# print(newText)
+# print(f"Your new text: {newText}")
+newSentence = text.replace(textToReplace, wordToInclude)
+print(f"{newSentence}")
