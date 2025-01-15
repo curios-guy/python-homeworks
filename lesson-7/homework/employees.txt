@@ -1,0 +1,12 @@
+{
+    "432": {
+        "name": "asdasd",
+        "position": "DEV",
+        "salary": 23000
+    },
+    "311": {
+        "name": "dery",
+        "position": "Qwerty",
+        "salary": 12000
+    }
+}
