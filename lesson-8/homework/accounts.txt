@@ -1,0 +1,14 @@
+{
+    "801": {
+        "name": "salom",
+        "balance": 93001
+    },
+    "233": {
+        "name": "Alish",
+        "balance": 1000
+    },
+    "227": {
+        "name": "qwerty",
+        "balance": 1233
+    }
+}
