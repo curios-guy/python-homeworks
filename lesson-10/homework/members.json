@@ -1,0 +1,29 @@
+{
+    "u4006": {
+        "name": "asd",
+        "surname": "das",
+        "borrowed_books": []
+    },
+    "u4179": {
+        "name": "qwe",
+        "surname": "eqw",
+        "borrowed_books": []
+    },
+    "u1145": {
+        "name": "Alisher",
+        "surname": "Senatullayev",
+        "borrowed_books": [
+            "b6595",
+            "b6614",
+            "b1039"
+        ]
+    },
+    "u8362": {
+        "name": "Alisher",
+        "surname": "Senatullayev",
+        "borrowed_books": [
+            "b6595",
+            "b6614"
+        ]
+    }
+}

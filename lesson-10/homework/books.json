@@ -1,0 +1,17 @@
+{
+    "b1748": {
+        "title": "Ajdarho",
+        "author": "qwertyu",
+        "is_borrowed": true
+    },
+    "b1039": {
+        "title": "asd",
+        "author": "das",
+        "is_borrowed": true
+    },
+    "b8564": {
+        "title": "Qweqw",
+        "author": "asd",
+        "is_borrowed": false
+    }
+}
