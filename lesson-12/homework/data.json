@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 69.2,
+        "lat": 41.3
+    },
+    "weather": [
+        {
+            "id": 701,
+            "main": "Mist",
+            "description": "mist",
+            "icon": "50n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 274.16,
+        "feels_like": 270.79,
+        "temp_min": 274.16,
+        "temp_max": 274.16,
+        "pressure": 1025,
+        "humidity": 93,
+        "sea_level": 1025,
+        "grnd_level": 974
+    },
+    "visibility": 1300,
+    "wind": {
+        "speed": 3.09,
+        "deg": 200
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1738092632,
+    "sys": {
+        "type": 1,
+        "id": 9016,
+        "country": "UZ",
+        "sunrise": 1738118247,
+        "sunset": 1738154098
+    },
+    "timezone": 18000,
+    "id": 1514635,
+    "name": "Aktepa",
+    "cod": 200
+}
