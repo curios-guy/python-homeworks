@@ -1,0 +1,34 @@
+[
+    {
+        "3254": {
+            "laptop_name": "Apple monitor 24",
+            "price": "$400",
+            "desc": "LED Cinema Display features a 27-inch glossy LED-backlit TFT \nactive-matrix LCD display with IPS technology and an optimum resolution \nof 2560x1440. It has a 178 degree horizontal and vertical viewing angle,\n a \"typical\" brightness of 375 cd/m2, contrast ratio of 1000:1, and a \n12 ms response time. "
+        },
+        "8797": {
+            "laptop_name": "MacBook air",
+            "price": "$700",
+            "desc": "1.6GHz dual-core Intel Core i5 (Turbo Boost up to 2.7GHz) with 3MB \nshared L3 cache\nConfigurable to 2.2GHz dual-core Intel Core i7 (Turbo \nBoost up to 3.2GHz) with 4MB shared L3 cache. "
+        },
+        "2468": {
+            "laptop_name": "Dell i7 8gb",
+            "price": "$700",
+            "desc": "6th Generation Intel Core i7-6500U Dual-Core Processor 2.5 GHz (max \nboost speed up to 3.1GHz) 4MB L3 Cache, 8GB DDR4 1600 MHz, 1TB 5400 RPM \nHDD15.6 in Full HD LED-backlit touchscreen with Truelife (1920 x 1080), \n10-finger multi-touch support, Intel HD Graphics 520 with shared \ngraphics memory "
+        },
+        "5616": {
+            "laptop_name": "2017 Dell 15.6 Inch",
+            "price": "$700",
+            "desc": "7th Gen Intel Core i7-7500U mobile processor 2.70 GHz with Turbo Boost \nTechnology up to 3.50 GHz, Intel HD Graphics 62015.6 inch Full HD IPS \nTrueLife LED-backlit touchscreen (1920 x 1080), 10-finger multi-touch \nsupport, 360\u00b0 flip-and-fold design,8GB DDR4 2400 MHz Memory, 1TB 5400 \nRPM HDD, No optical drive, 3 in 1 card reader (SD SDHC SDXC) "
+        },
+        "9868": {
+            "laptop_name": "ASUS Full HD",
+            "price": "$230",
+            "desc": "ASUS VS247H-P 23.6- Inch Full HD "
+        },
+        "5336": {
+            "laptop_name": "MacBook Pro",
+            "price": "$1100",
+            "desc": "Apple has introduced three new versions of its MacBook Pro line, \nincluding a 13-inch and 15-inch model with the Touch Bar, a thin, \nmulti-touch strip display that sits above the MacBook Pro's keyboard.  "
+        }
+    }
+]
